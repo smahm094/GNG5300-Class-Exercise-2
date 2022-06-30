@@ -1,6 +1,6 @@
 # Class Exercise: Week-2
 
-This is a week-2 exercise of graduate level course: GNG5300 - Full Stack Software Developer
+This is a week-2 exercise of graduate level course: GNG5300 - Full Stack Software Development
 
 Problem Statement: 
 
