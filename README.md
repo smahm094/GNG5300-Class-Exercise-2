@@ -1,4 +1,4 @@
-# gng5300_class_exercise_2
+# Class Exercise: Week-2
 
 This is a week-2 exercise of graduate level course: GNG5300 - Full Stack Software Developer
 
